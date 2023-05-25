@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.a4b05350.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.90c1239b.js",
-    "static/media/gibbygibson-ball.png": "/%7Brepo-name%7D/static/media/gibbygibson-ball.a9c9cd0d1ecadbae295c.png",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "main.a4b05350.css.map": "/%7Brepo-name%7D/static/css/main.a4b05350.css.map",
-    "main.90c1239b.js.map": "/%7Brepo-name%7D/static/js/main.90c1239b.js.map"
+    "main.css": "/MonsterTeamPlanner/static/css/main.a4b05350.css",
+    "main.js": "/MonsterTeamPlanner/static/js/main.faf79d64.js",
+    "static/media/gibbygibson-ball.png": "/MonsterTeamPlanner/static/media/gibbygibson-ball.a9c9cd0d1ecadbae295c.png",
+    "index.html": "/MonsterTeamPlanner/index.html",
+    "main.a4b05350.css.map": "/MonsterTeamPlanner/static/css/main.a4b05350.css.map",
+    "main.faf79d64.js.map": "/MonsterTeamPlanner/static/js/main.faf79d64.js.map"
   },
   "entrypoints": [
     "static/css/main.a4b05350.css",
-    "static/js/main.90c1239b.js"
+    "static/js/main.faf79d64.js"
   ]
 }
