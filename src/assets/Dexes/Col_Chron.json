@@ -1,0 +1,485 @@
+[
+    {
+      "NatNum": 196,
+      "LocNum": 1,
+      "Name": "Espeon",
+      "Type1": "Psychic",
+      "Type2": ""
+    },
+    {
+      "NatNum": 197,
+      "LocNum": 2,
+      "Name": "Umbreon",
+      "Type1": "Dark",
+      "Type2": ""
+    },
+    {
+      "NatNum": 296,
+      "LocNum": 3,
+      "Name": "Makuhita",
+      "Type1": "Fighting",
+      "Type2": ""
+    },
+    {
+      "NatNum": 297,
+      "LocNum": 4,
+      "Name": "Hariyama",
+      "Type1": "Fighting",
+      "Type2": ""
+    },
+    {
+      "NatNum": 153,
+      "LocNum": 5,
+      "Name": "Bayleef",
+      "Type1": "Grass",
+      "Type2": ""
+    },
+    {
+      "NatNum": 154,
+      "LocNum": 6,
+      "Name": "Meganium",
+      "Type1": "Grass",
+      "Type2": ""
+    },
+    {
+      "NatNum": 156,
+      "LocNum": 7,
+      "Name": "Quilava",
+      "Type1": "Fire",
+      "Type2": ""
+    },
+    {
+      "NatNum": 157,
+      "LocNum": 8,
+      "Name": "Typhlosion",
+      "Type1": "Fire",
+      "Type2": ""
+    },
+    {
+      "NatNum": 159,
+      "LocNum": 9,
+      "Name": "Croconaw",
+      "Type1": "Water",
+      "Type2": ""
+    },
+    {
+      "NatNum": 160,
+      "LocNum": 10,
+      "Name": "Feraligatr",
+      "Type1": "Water",
+      "Type2": ""
+    },
+    {
+      "NatNum": 200,
+      "LocNum": 11,
+      "Name": "Misdreavus",
+      "Type1": "Ghost",
+      "Type2": ""
+    },
+    {
+      "NatNum": 218,
+      "LocNum": 12,
+      "Name": "Slugma",
+      "Type1": "Fire",
+      "Type2": ""
+    },
+    {
+      "NatNum": 219,
+      "LocNum": 13,
+      "Name": "Magcargo",
+      "Type1": "Fire",
+      "Type2": "Rock"
+    },
+    {
+      "NatNum": 164,
+      "LocNum": 14,
+      "Name": "Noctowl",
+      "Type1": "Normal",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 179,
+      "LocNum": 15,
+      "Name": "Mareep",
+      "Type1": "Electric",
+      "Type2": ""
+    },
+    {
+      "NatNum": 180,
+      "LocNum": 16,
+      "Name": "Flaaffy",
+      "Type1": "Electric",
+      "Type2": ""
+    },
+    {
+      "NatNum": 181,
+      "LocNum": 17,
+      "Name": "Ampharos",
+      "Type1": "Electric",
+      "Type2": ""
+    },
+    {
+      "NatNum": 188,
+      "LocNum": 18,
+      "Name": "Skiploom",
+      "Type1": "Grass",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 189,
+      "LocNum": 19,
+      "Name": "Jumpluff",
+      "Type1": "Grass",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 195,
+      "LocNum": 20,
+      "Name": "Quagsire",
+      "Type1": "Water",
+      "Type2": "Ground"
+    },
+    {
+      "NatNum": 162,
+      "LocNum": 21,
+      "Name": "Furret",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 193,
+      "LocNum": 22,
+      "Name": "Yanma",
+      "Type1": "Bug",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 223,
+      "LocNum": 23,
+      "Name": "Remoraid",
+      "Type1": "Water",
+      "Type2": ""
+    },
+    {
+      "NatNum": 224,
+      "LocNum": 24,
+      "Name": "Octillery",
+      "Type1": "Water",
+      "Type2": ""
+    },
+    {
+      "NatNum": 226,
+      "LocNum": 25,
+      "Name": "Mantine",
+      "Type1": "Water",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 211,
+      "LocNum": 26,
+      "Name": "Qwilfish",
+      "Type1": "Water",
+      "Type2": "Poison"
+    },
+    {
+      "NatNum": 206,
+      "LocNum": 27,
+      "Name": "Dunsparce",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 307,
+      "LocNum": 28,
+      "Name": "Meditite",
+      "Type1": "Fighting",
+      "Type2": "Psychic"
+    },
+    {
+      "NatNum": 308,
+      "LocNum": 29,
+      "Name": "Medicham",
+      "Type1": "Fighting",
+      "Type2": "Psychic"
+    },
+    {
+      "NatNum": 333,
+      "LocNum": 30,
+      "Name": "Swablu",
+      "Type1": "Normal",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 334,
+      "LocNum": 31,
+      "Name": "Altaria",
+      "Type1": "Dragon",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 185,
+      "LocNum": 32,
+      "Name": "Sudowoodo",
+      "Type1": "Rock",
+      "Type2": ""
+    },
+    {
+      "NatNum": 311,
+      "LocNum": 33,
+      "Name": "Plusle",
+      "Type1": "Electric",
+      "Type2": ""
+    },
+    {
+      "NatNum": 237,
+      "LocNum": 34,
+      "Name": "Hitmontop",
+      "Type1": "Fighting",
+      "Type2": ""
+    },
+    {
+      "NatNum": 244,
+      "LocNum": 35,
+      "Name": "Entei",
+      "Type1": "Fire",
+      "Type2": ""
+    },
+    {
+      "NatNum": 166,
+      "LocNum": 36,
+      "Name": "Ledian",
+      "Type1": "Bug",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 245,
+      "LocNum": 37,
+      "Name": "Suicune",
+      "Type1": "Water",
+      "Type2": ""
+    },
+    {
+      "NatNum": 207,
+      "LocNum": 38,
+      "Name": "Gligar",
+      "Type1": "Ground",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 215,
+      "LocNum": 39,
+      "Name": "Sneasel",
+      "Type1": "Dark",
+      "Type2": "Ice"
+    },
+    {
+      "NatNum": 221,
+      "LocNum": 40,
+      "Name": "Piloswine",
+      "Type1": "Ice",
+      "Type2": "Ground"
+    },
+    {
+      "NatNum": 234,
+      "LocNum": 41,
+      "Name": "Stantler",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 168,
+      "LocNum": 42,
+      "Name": "Ariados",
+      "Type1": "Bug",
+      "Type2": "Poison"
+    },
+    {
+      "NatNum": 190,
+      "LocNum": 43,
+      "Name": "Aipom",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 198,
+      "LocNum": 44,
+      "Name": "Murkrow",
+      "Type1": "Dark",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 205,
+      "LocNum": 45,
+      "Name": "Forretress",
+      "Type1": "Bug",
+      "Type2": "Steel"
+    },
+    {
+      "NatNum": 210,
+      "LocNum": 46,
+      "Name": "Granbull",
+      "Type1": "Fairy",
+      "Type2": ""
+    },
+    {
+      "NatNum": 329,
+      "LocNum": 47,
+      "Name": "Vibrava",
+      "Type1": "Ground",
+      "Type2": "Dragon"
+    },
+    {
+      "NatNum": 330,
+      "LocNum": 48,
+      "Name": "Flygon",
+      "Type1": "Ground",
+      "Type2": "Dragon"
+    },
+    {
+      "NatNum": 243,
+      "LocNum": 49,
+      "Name": "Raikou",
+      "Type1": "Electric",
+      "Type2": ""
+    },
+    {
+      "NatNum": 192,
+      "LocNum": 50,
+      "Name": "Sunflora",
+      "Type1": "Grass",
+      "Type2": ""
+    },
+    {
+      "NatNum": 225,
+      "LocNum": 51,
+      "Name": "Delibird",
+      "Type1": "Ice",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 214,
+      "LocNum": 52,
+      "Name": "Heracross",
+      "Type1": "Bug",
+      "Type2": "Fighting"
+    },
+    {
+      "NatNum": 227,
+      "LocNum": 53,
+      "Name": "Skarmory",
+      "Type1": "Steel",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 241,
+      "LocNum": 54,
+      "Name": "Miltank",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 359,
+      "LocNum": 55,
+      "Name": "Absol",
+      "Type1": "Dark",
+      "Type2": ""
+    },
+    {
+      "NatNum": 229,
+      "LocNum": 56,
+      "Name": "Houndoom",
+      "Type1": "Dark",
+      "Type2": "Fire"
+    },
+    {
+      "NatNum": 357,
+      "LocNum": 57,
+      "Name": "Tropius",
+      "Type1": "Grass",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 376,
+      "LocNum": 58,
+      "Name": "Metagross",
+      "Type1": "Steel",
+      "Type2": "Psychic"
+    },
+    {
+      "NatNum": 248,
+      "LocNum": 59,
+      "Name": "Tyranitar",
+      "Type1": "Rock",
+      "Type2": "Dark"
+    },
+    {
+      "NatNum": 235,
+      "LocNum": 60,
+      "Name": "Smeargle",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 217,
+      "LocNum": 61,
+      "Name": "Ursaring",
+      "Type1": "Normal",
+      "Type2": ""
+    },
+    {
+      "NatNum": 213,
+      "LocNum": 62,
+      "Name": "Shuckle",
+      "Type1": "Bug",
+      "Type2": "Rock"
+    },
+    {
+      "NatNum": 176,
+      "LocNum": 63,
+      "Name": "Togetic",
+      "Type1": "Fairy",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 250,
+      "LocNum": 64,
+      "Name": "Ho-oh",
+      "Type1": "Fire",
+      "Type2": "Flying"
+    },
+    {
+      "NatNum": 251,
+      "LocNum": 65,
+      "Name": "Celebi",
+      "Type1": "Psychic",
+      "Type2": "Grass"
+    },
+    {
+      "NatNum": 25,
+      "LocNum": 66,
+      "Name": "Pikachu",
+      "Type1": "Electric",
+      "Type2": ""
+    },
+    {
+      "NatNum": 385,
+      "LocNum": 67,
+      "Name": "Jirachi",
+      "Type1": "Steel",
+      "Type2": "Psychic"
+    },
+    {
+      "NatNum": 175,
+      "LocNum": 68,
+      "Name": "Togepi",
+      "Type1": "Fairy",
+      "Type2": ""
+    },
+    {
+      "NatNum": 212,
+      "LocNum": 69,
+      "Name": "Scizor",
+      "Type1": "Bug",
+      "Type2": "Steel"
+    }
+   ]
