@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MonsterTeamPlanner/static/css/main.a4b05350.css",
-    "main.js": "/MonsterTeamPlanner/static/js/main.faf79d64.js",
+    "main.css": "/MonsterTeamPlanner/static/css/main.0868f9b5.css",
+    "main.js": "/MonsterTeamPlanner/static/js/main.8bbe8e3f.js",
     "static/media/gibbygibson-ball.png": "/MonsterTeamPlanner/static/media/gibbygibson-ball.a9c9cd0d1ecadbae295c.png",
     "index.html": "/MonsterTeamPlanner/index.html",
-    "main.a4b05350.css.map": "/MonsterTeamPlanner/static/css/main.a4b05350.css.map",
-    "main.faf79d64.js.map": "/MonsterTeamPlanner/static/js/main.faf79d64.js.map"
+    "main.0868f9b5.css.map": "/MonsterTeamPlanner/static/css/main.0868f9b5.css.map",
+    "main.8bbe8e3f.js.map": "/MonsterTeamPlanner/static/js/main.8bbe8e3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4b05350.css",
-    "static/js/main.faf79d64.js"
+    "static/css/main.0868f9b5.css",
+    "static/js/main.8bbe8e3f.js"
   ]
 }
