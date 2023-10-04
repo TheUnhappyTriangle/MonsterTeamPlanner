@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
 import Button from 'react-bootstrap/Button';
 
-export default function TriStateBox({ posIcon, neutIcon, negIcon, curState, isLinked, label, onBoxChange }) {
+export default function TriStateBox({ posIcon, neutIcon, negIcon, curState, label, onBoxChange }) {
     const [boxState, setBoxState] = useState(curState);
-
+    const initialBoxState = useRef(curState);
+    
     const handleBoxChange = () => {
         switch(boxState) {
             case true:
@@ -18,11 +19,10 @@ export default function TriStateBox({ posIcon, neutIcon, negIcon, curState, isLi
             default:
                 break;
         }
-        onBoxChange(boxState);
     };
 
-    const getBoxIcon = () => {
-        switch(boxState) {
+    const getBoxIcon = (bState) => {
+        switch(bState) {
             case true:
                 return posIcon;
             case null:
@@ -33,15 +33,24 @@ export default function TriStateBox({ posIcon, neutIcon, negIcon, curState, isLi
                 break;
         }
     };
+    //const [boxIcon, setBoxIcon] = useState(getBoxIcon(curState));
+
+    useEffect(() => {
+        if (boxState !== initialBoxState.current) {
+            onBoxChange(boxState);
+            initialBoxState.current = boxState;
+        }
+    }, [boxState, onBoxChange]);
 
     return (
-        <div className='container-fluid'>
-            <div className='row justify-content-start align-items-center'>
-                <div className='col-md-1 align-items-center'>
-                    <Button variant='btn btn-dark squareBtn' size='sm' onClick={handleBoxChange}>{getBoxIcon()} </Button>
+        <div className='d-grid gap-2'>
+            <Button variant='btn btn-outline-dark' size='sm' onClick={handleBoxChange} className='tristate-button'>
+                <div className='tristate-content'>
+                    <span className='tristate-icon'>{getBoxIcon(boxState)}</span>
+                    <span className='tristate-divider'>|</span>
+                    <span className='tristate-label'>{label}</span>
                 </div>
-                <div className='col-md-8 offset-md-1 text-right align-text-center'>{label}</div>
-            </div>
+            </Button>
         </div>
     );
 }

@@ -1,0 +1,200 @@
+[
+    {
+      "id": 0,
+      "name": "National",
+      "gen": 9,
+      "region": "All",
+      "regTotal": 1010,
+      "availableTotal": 1010,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 1,
+      "name": "Relational",
+      "gen": 9,
+      "region": "All",
+      "regTotal": 1010,
+      "availableTotal": 1010,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 2,
+      "name": "RBY",
+      "gen": 1,
+      "region": "Kanto",
+      "regTotal": 151,
+      "availableTotal": 151,
+      "defSprite": "1_y_reg.png"
+    },
+    {
+      "id": 3,
+      "name": "GSC",
+      "gen": 2,
+      "region": "Johto",
+      "regTotal": 251,
+      "availableTotal": 251,
+      "defSprite": "2_c_reg.png"
+    },
+    {
+      "id": 4,
+      "name": "RSE",
+      "gen": 3,
+      "region": "Hoenn",
+      "regTotal": 202,
+      "availableTotal": 386,
+      "defSprite": "3_e_reg.png"
+    },
+    {
+      "id": 5,
+      "name": "Colosseum",
+      "gen": 3,
+      "region": "Orre",
+      "regTotal": 69,
+      "availableTotal": 386,
+      "defSprite": "3_rs_reg.png"
+    },
+    {
+      "id": 6,
+      "name": "FRLG",
+      "gen": 3,
+      "region": "Kanto",
+      "regTotal": 151,
+      "availableTotal": 386,
+      "defSprite": "3_fl_reg.png"
+    },
+    {
+      "id": 7,
+      "name": "XD",
+      "gen": 3,
+      "region": "Orre",
+      "regTotal": 149,
+      "availableTotal": 386,
+      "defSprite": "3_e_reg.png"
+    },
+    {
+      "id": 8,
+      "name": "DP",
+      "gen": 4,
+      "region": "Sinnoh",
+      "regTotal": 151,
+      "availableTotal": 493,
+      "defSprite": "4_dp_reg.png"
+    },
+    {
+      "id": 9,
+      "name": "Pt",
+      "gen": 4,
+      "region": "Sinnoh",
+      "regTotal": 210,
+      "availableTotal": 493,
+      "defSprite": "4_p_reg.png"
+    },
+    {
+      "id": 10,
+      "name": "HGSS",
+      "gen": 4,
+      "region": "Johto",
+      "regTotal": 256,
+      "availableTotal": 493,
+      "defSprite": "4_hs_reg.png"
+    },
+    {
+      "id": 11,
+      "name": "BW",
+      "gen": 5,
+      "region": "Unova",
+      "regTotal": 156,
+      "availableTotal": 649,
+      "defSprite": "5_bw_reg.png"
+    },
+    {
+      "id": 12,
+      "name": "B2W2",
+      "gen": 5,
+      "region": "Unova",
+      "regTotal": 301,
+      "availableTotal": 649,
+      "defSprite": "5_bw_reg.png"
+    },
+    {
+      "id": 13,
+      "name": "XY",
+      "gen": 6,
+      "region": "Kalos",
+      "regTotal": 454,
+      "availableTotal": 721,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 14,
+      "name": "ORAS",
+      "gen": 6,
+      "region": "Hoenn",
+      "regTotal": 211,
+      "availableTotal": 721,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 15,
+      "name": "SuMo",
+      "gen": 7,
+      "region": "Alola",
+      "regTotal": 301,
+      "availableTotal": 809,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 16,
+      "name": "USUM",
+      "gen": 7,
+      "region": "Alola",
+      "regTotal": 403,
+      "availableTotal": 809,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 17,
+      "name": "LGPE",
+      "gen": 7,
+      "region": "Kanto",
+      "regTotal": 151,
+      "availableTotal": 153,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 18,
+      "name": "SwSh",
+      "gen": 8,
+      "region": "Galar",
+      "regTotal": 584,
+      "availableTotal": 664,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 19,
+      "name": "BDSP",
+      "gen": 8,
+      "region": "Sinnoh",
+      "regTotal": 151,
+      "availableTotal": 493,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 20,
+      "name": "PLA",
+      "gen": 8,
+      "region": "Hisui",
+      "regTotal": 242,
+      "availableTotal": 242,
+      "defSprite": "HOME_reg.png"
+    },
+    {
+      "id": 21,
+      "name": "ScVi",
+      "gen": 9,
+      "region": "Paldea",
+      "regTotal": 400,
+      "availableTotal": 474,
+      "defSprite": "HOME_reg.png"
+    }
+   ]

@@ -39,7 +39,7 @@
     overflow: auto;
     object-fit: contain;
     z-index: 2;
-    image-rendering: pixelated;
+    image-rendering: auto;
 }
 .removeBtn {
     position: absolute;
@@ -89,5 +89,27 @@
     max-width: 100%;
 }
 .popoverBody {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.2);
 }
+
+.tristate-button {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+  }
+  
+  .tristate-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .tristate-divider {
+    margin: 0 0.5rem; /* Adjust the spacing around the '|' symbol as needed */
+  }
+  
+  .tristate-icon,
+  .tristate-divider,
+  .tristate-label {
+    display: flex;
+    align-items: center;
+  }
