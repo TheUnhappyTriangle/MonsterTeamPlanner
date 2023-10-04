@@ -1,0 +1,186 @@
+[
+    [
+        {
+            "name": "National",
+            "region": "All"
+          },
+        {
+            "name": "Relational",
+            "region": "All"
+        }
+    ],
+    [
+        {
+            "name": "Red",
+            "region": "Kanto"
+        },
+        {
+            "name": "Blue",
+            "region": "Kanto"
+        },
+        {
+            "name": "Yellow",
+            "region": "Kanto"
+        }
+    ],
+    [
+        {
+            "name": "Gold",
+            "region": "Johto"
+        },
+        {
+            "name": "Silver",
+            "region": "Johto"
+        },
+        {
+            "name": "Crystal",
+            "region": "Johto"
+        }
+    ],
+    [
+        {
+            "name": "Ruby",
+            "region": "Hoenn"
+        },
+        {
+            "name": "Sapphire",
+            "region": "Hoenn"
+        },
+        {
+            "name": "Colosseum",
+            "region": "Orre"
+        },
+        {
+            "name": "Fire Red",
+            "region": "Kanto"
+        },
+        {
+            "name": "Leaf Green",
+            "region": "Kanto"
+        },
+        {
+            "name": "Emerald",
+            "region": "Hoenn"
+        },
+        {
+            "name": "XD: Gale of Darkness",
+            "region": "Orre"
+        }
+    ],
+    [
+        {
+            "name": "Diamond",
+            "region": "Sinnoh"
+        },
+        {
+            "name": "Pearl",
+            "region": "Sinnoh"
+        },
+        {
+            "name": "Platinum",
+            "region": "Sinnoh"
+        },
+        {
+            "name": "Heart Gold",
+            "region": "Johto"
+        },
+        {
+            "name": "Soul Silver",
+            "region": "Johto"
+        }
+    ],
+    [
+        {
+            "name": "Black",
+            "region": "Unova"
+        },
+        {
+            "name": "White",
+            "region": "Unova"
+        },
+        {
+            "name": "Black 2",
+            "region": "Unova"
+        },
+        {
+            "name": "White 2",
+            "region": "Unova"
+        }
+    ],
+    [
+        {
+            "name": "X",
+            "region": "Kalos"
+        },
+        {
+            "name": "Y",
+            "region": "Kalos"
+        },
+        {
+            "name": "Omega Ruby",
+            "region": "Hoenn"
+        },
+        {
+            "name": "Alpha Sapphire",
+            "region": "Hoenn"
+        }
+    ],
+    [
+        {
+            "name": "Sun",
+            "region": "Alola"
+        },
+        {
+            "name": "Moon",
+            "region": "Alola"
+        },
+        {
+            "name": "Ultra Sun",
+            "region": "Alola"
+        },
+        {
+            "name": "Ulta Moon",
+            "region": "Alola"
+        },
+        {
+            "name": "Let's Go Pikachu",
+            "region": "Kanto"
+        },
+        {
+            "name": "Let's Go Eevee",
+            "region": "Kanto"
+        }
+    ],
+    [
+        {
+            "name": "Sword",
+            "region": "Galar"
+        },
+        {
+            "name": "Shield",
+            "region": "Galar"
+        },
+        {
+            "name": "Brilliant Diamond",
+            "region": "Sinnoh"
+        },
+        {
+            "name": "Shining Pearl",
+            "region": "Sinnoh"
+        },
+        {
+            "name": "Legends Arceus",
+            "region": "Hisui"
+        }
+    ],
+    [
+        {
+            "name": "Scarlet",
+            "region": "Paldea"
+        },
+        {
+            "name": "Violet",
+            "region": "Paldea"
+        }
+    ]
+]

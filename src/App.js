@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import GameChooser from './components/GameSelection/GameChooser';
 import NavBar from './components/NavBar';
 import TeamSection from './components/TeamSection/TeamSection';
 import LSideBar from './components/LeftSideBar/LSideBar';
@@ -6,6 +8,7 @@ import PKMNGrid from './components/PokemonGrid/PKMNGrid';
 import DexInfo from './assets/Data/Dex_Info.json';
 
 function App() {
+  /*
   const [dexData_id, setDex] = useState(0);
   const handleDexChange = (newDex) => { setDex(newDex); }
 
@@ -26,15 +29,26 @@ function App() {
     console.log("App - handleTypeFilterChange -> "+newTypeFilters[0].label+" "+newTypeFilters[0].state);
     setFilterVals(newFilters);
   }
-  /*
   const handleSortChange = (newSort) => { setSort(newSort) }
   const handleOptionChange = (newOptions) => { setOptionVals(newOptions) }
   */
-
+  const [selectedGame, setSelectedGame] = useState('National');
+  /*
+  ROUTES
+  GAME SELECTION
+  POKEMON SELECTION
+  404 NOT FOUND
+  */
   return (
-    <>
-      
-      <div className="container-fluid mt-4 mb-10 px-5">
+    <Router>
+      <Routes>
+        <Route path='/MonsterTeamPlanner/GameSelection' element={<GameChooser selectedGame={selectedGame} setSelectedGame={setSelectedGame}/>}></Route>
+        <Route path='/MonsterTeamPlanner/PokemonSelection'>
+
+        </Route>
+        <Route></Route>
+      </Routes>
+      {/*<div className="container-fluid mt-4 mb-10 px-5">
         <div className="row justify-content-center align-items-start g-2 my-2">
           <div className="col-lg-2 justify-content-center sidebarFollow">
             <LSideBar onChangeDex={handleDexChange} onTypeFilterChange={handleTypeFilterChange}/>
@@ -46,8 +60,8 @@ function App() {
               />
           </div>
         </div>
-      </div>
-    </>
+      </div>*/}
+    </Router>
   );
 }
 
